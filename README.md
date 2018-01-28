@@ -1,1 +1,1 @@
-# Lottery-java-This is a lottery program that asks the user for input of several numbers and at the same time generates random numbers. If all numbers match, it announces a grand prize winner.
+# Lottery-java-This is a lottery program that asks the user for input of several numbers and at the same time generates random numbers. If all numbers match, it announces a grand prize winner. In all cases it reports the numbers entered by the user that were matched by the numbers generator reports their positions. 
